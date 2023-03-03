@@ -1,0 +1,50 @@
+body {
+    padding:10px ;
+    border-width: 3px 3px 3px 3px;
+    margin:5px 
+}
+.all {
+    font-size:larger
+}
+h1 {
+    margin-left: 10%;
+    text-decoration: underline;
+}
+
+.new1 {
+    width: 80%;
+}
+
+.align {
+    margin-left: 10%;
+}
+
+.p1 {
+    color: blue;
+}
+
+.a1 {
+    color: orange;
+}
+
+.a2 {
+    color: darkred;
+    background-color: yellow;
+}
+.li1 {
+    font-weight: bold;
+}
+.a3 {
+    color: red;
+}
+.List1 {
+    color: blue;
+
+}
+.List2 {
+    color: blue;
+    margin-left: 3%;
+}
+.li2 {
+    font-weight: bold;
+}
