@@ -39,4 +39,5 @@ h2 {
   position: relative;top: 2cm;
 }
 
-  
+hr:nth-last-child(2)
+{ position: relative; top: 2cm;}  
