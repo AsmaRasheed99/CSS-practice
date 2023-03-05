@@ -32,7 +32,7 @@ div:nth-child(odd) {
 
 }
 
-section:nth-child(even) {
+section:nth-child(odd) {
     display:none;
 }
 h2 {

@@ -34,9 +34,7 @@ h1 {
 .li1 {
     font-weight: bold;
 }
-.a3 {
-    color: red;
-}
+
 .List1 {
     color: blue;
 
@@ -47,4 +45,7 @@ h1 {
 }
 .li2 {
     font-weight: bold;
+}
+ul li a {
+    color: red;
 }

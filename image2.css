@@ -4,9 +4,8 @@
 }
 
 #FA {
-    background-color:lightyellow ;
-    border-right: 3px solid;
-    height: 25cm;
+    background-color:#ffffe0 ;
+    
 }
  .column {
     float: left;
@@ -32,11 +31,12 @@ hr.new2 {
 
 .p1 {
     font-weight: bold;
-}
-
-.p1 {
     height: 100px;
     overflow-y: scroll;
+    border-style: solid;
+    border-left: 1px;
+    border-right: 1px;
+    
     
 }
 .row2 {
